@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\bin\Debug\netcoreapp3.1\6. Membros Estáticos.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\bin\Debug\netcoreapp3.1\6. Membros Estáticos.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\bin\Debug\netcoreapp3.1\6. Membros Estáticos.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\bin\Debug\netcoreapp3.1\6. Membros Estáticos.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\bin\Debug\netcoreapp3.1\6. Membros Estáticos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\bin\Debug\netcoreapp3.1\6. Membros Estáticos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\obj\Debug\netcoreapp3.1\6. Membros Estáticos.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\obj\Debug\netcoreapp3.1\6. Membros Estáticos.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\obj\Debug\netcoreapp3.1\6. Membros Estáticos.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\obj\Debug\netcoreapp3.1\6. Membros Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\obj\Debug\netcoreapp3.1\6. Membros Estáticos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\obj\Debug\netcoreapp3.1\6. Membros Estáticos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\6. Membros Estáticos\6. Membros Estáticos\obj\Debug\netcoreapp3.1\6. Membros Estáticos.genruntimeconfig.cache

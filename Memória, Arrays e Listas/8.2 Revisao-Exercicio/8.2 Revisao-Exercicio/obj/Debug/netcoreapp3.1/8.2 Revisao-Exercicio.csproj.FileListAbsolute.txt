@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\bin\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\bin\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\bin\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\bin\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\bin\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\bin\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\obj\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\obj\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\obj\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\obj\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\obj\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\obj\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.2 Revisao-Exercicio\8.2 Revisao-Exercicio\obj\Debug\netcoreapp3.1\8.2 Revisao-Exercicio.genruntimeconfig.cache

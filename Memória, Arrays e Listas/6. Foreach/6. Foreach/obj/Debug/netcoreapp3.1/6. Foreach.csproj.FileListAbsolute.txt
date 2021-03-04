@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\bin\Debug\netcoreapp3.1\6. Foreach.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\bin\Debug\netcoreapp3.1\6. Foreach.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\bin\Debug\netcoreapp3.1\6. Foreach.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\bin\Debug\netcoreapp3.1\6. Foreach.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\bin\Debug\netcoreapp3.1\6. Foreach.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\bin\Debug\netcoreapp3.1\6. Foreach.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\obj\Debug\netcoreapp3.1\6. Foreach.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\obj\Debug\netcoreapp3.1\6. Foreach.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\obj\Debug\netcoreapp3.1\6. Foreach.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\obj\Debug\netcoreapp3.1\6. Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\obj\Debug\netcoreapp3.1\6. Foreach.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\obj\Debug\netcoreapp3.1\6. Foreach.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\6. Foreach\6. Foreach\obj\Debug\netcoreapp3.1\6. Foreach.genruntimeconfig.cache

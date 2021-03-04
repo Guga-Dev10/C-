@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\bin\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\bin\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\bin\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\bin\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\bin\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\bin\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\obj\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\obj\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\obj\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\obj\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\obj\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\obj\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. Estrutura Repetitiva - FOR\8. Estrutura Repetitiva - FOR\obj\Debug\netcoreapp3.1\8. Estrutura Repetitiva - FOR.genruntimeconfig.cache

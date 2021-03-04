@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\bin\Debug\netcoreapp3.1\9.1 Listas - Revisao.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\bin\Debug\netcoreapp3.1\9.1 Listas - Revisao.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\bin\Debug\netcoreapp3.1\9.1 Listas - Revisao.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\bin\Debug\netcoreapp3.1\9.1 Listas - Revisao.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\bin\Debug\netcoreapp3.1\9.1 Listas - Revisao.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\bin\Debug\netcoreapp3.1\9.1 Listas - Revisao.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\obj\Debug\netcoreapp3.1\9.1 Listas - Revisao.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\obj\Debug\netcoreapp3.1\9.1 Listas - Revisao.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\obj\Debug\netcoreapp3.1\9.1 Listas - Revisao.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\obj\Debug\netcoreapp3.1\9.1 Listas - Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\obj\Debug\netcoreapp3.1\9.1 Listas - Revisao.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\obj\Debug\netcoreapp3.1\9.1 Listas - Revisao.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\9.1 Listas - Revisao\9.1 Listas - Revisao\obj\Debug\netcoreapp3.1\9.1 Listas - Revisao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\bin\Debug\netcoreapp3.1\3. Gasolina.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\bin\Debug\netcoreapp3.1\3. Gasolina.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\bin\Debug\netcoreapp3.1\3. Gasolina.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\bin\Debug\netcoreapp3.1\3. Gasolina.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\bin\Debug\netcoreapp3.1\3. Gasolina.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\bin\Debug\netcoreapp3.1\3. Gasolina.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\obj\Debug\netcoreapp3.1\3. Gasolina.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\obj\Debug\netcoreapp3.1\3. Gasolina.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\obj\Debug\netcoreapp3.1\3. Gasolina.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\obj\Debug\netcoreapp3.1\3. Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\obj\Debug\netcoreapp3.1\3. Gasolina.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\obj\Debug\netcoreapp3.1\3. Gasolina.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. While - Exercícios\3. Gasolina\3. Gasolina\obj\Debug\netcoreapp3.1\3. Gasolina.genruntimeconfig.cache

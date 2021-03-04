@@ -1,0 +1,12 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\bin\Debug\netcoreapp3.1\5. TimeSpan.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\bin\Debug\netcoreapp3.1\5. TimeSpan.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\bin\Debug\netcoreapp3.1\5. TimeSpan.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\bin\Debug\netcoreapp3.1\5. TimeSpan.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\bin\Debug\netcoreapp3.1\5. TimeSpan.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\bin\Debug\netcoreapp3.1\5. TimeSpan.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\obj\Debug\netcoreapp3.1\5. TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\obj\Debug\netcoreapp3.1\5. TimeSpan.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\obj\Debug\netcoreapp3.1\5. TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\obj\Debug\netcoreapp3.1\5. TimeSpan.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\obj\Debug\netcoreapp3.1\5. TimeSpan.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\5. TimeSpan\5. TimeSpan\obj\Debug\netcoreapp3.1\5. TimeSpan.genruntimeconfig.cache

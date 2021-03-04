@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\bin\Debug\netcoreapp3.1\1. Inferencia - Var.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\bin\Debug\netcoreapp3.1\1. Inferencia - Var.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\bin\Debug\netcoreapp3.1\1. Inferencia - Var.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\bin\Debug\netcoreapp3.1\1. Inferencia - Var.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\bin\Debug\netcoreapp3.1\1. Inferencia - Var.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\bin\Debug\netcoreapp3.1\1. Inferencia - Var.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\obj\Debug\netcoreapp3.1\1. Inferencia - Var.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\obj\Debug\netcoreapp3.1\1. Inferencia - Var.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\obj\Debug\netcoreapp3.1\1. Inferencia - Var.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\obj\Debug\netcoreapp3.1\1. Inferencia - Var.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\obj\Debug\netcoreapp3.1\1. Inferencia - Var.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\obj\Debug\netcoreapp3.1\1. Inferencia - Var.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\1. Inferencia - Var\1. Inferencia - Var\obj\Debug\netcoreapp3.1\1. Inferencia - Var.genruntimeconfig.cache

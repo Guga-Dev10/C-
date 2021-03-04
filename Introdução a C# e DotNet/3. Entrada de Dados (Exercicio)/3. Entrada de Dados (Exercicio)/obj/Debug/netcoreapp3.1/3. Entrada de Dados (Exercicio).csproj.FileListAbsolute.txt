@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\obj\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\obj\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\obj\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\obj\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\bin\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\bin\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\bin\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\bin\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\bin\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\bin\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\obj\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\obj\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\3. Entrada de Dados (Exercicio)\3. Entrada de Dados (Exercicio)\obj\Debug\netcoreapp3.1\3. Entrada de Dados (Exercicio).genruntimeconfig.cache

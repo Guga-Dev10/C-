@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\bin\Debug\netcoreapp3.1\3. duração de jogo.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\bin\Debug\netcoreapp3.1\3. duração de jogo.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\bin\Debug\netcoreapp3.1\3. duração de jogo.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\bin\Debug\netcoreapp3.1\3. duração de jogo.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\bin\Debug\netcoreapp3.1\3. duração de jogo.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\bin\Debug\netcoreapp3.1\3. duração de jogo.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\obj\Debug\netcoreapp3.1\3. duração de jogo.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\obj\Debug\netcoreapp3.1\3. duração de jogo.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\obj\Debug\netcoreapp3.1\3. duração de jogo.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\obj\Debug\netcoreapp3.1\3. duração de jogo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\obj\Debug\netcoreapp3.1\3. duração de jogo.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\obj\Debug\netcoreapp3.1\3. duração de jogo.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\5. Estrutura Condicional (If-Else)\Exercícios\3. duração de jogo\3. duração de jogo\obj\Debug\netcoreapp3.1\3. duração de jogo.genruntimeconfig.cache

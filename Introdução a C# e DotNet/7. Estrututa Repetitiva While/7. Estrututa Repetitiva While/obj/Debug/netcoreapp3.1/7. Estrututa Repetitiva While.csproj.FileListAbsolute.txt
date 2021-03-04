@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\bin\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\bin\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\bin\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\bin\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\bin\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\bin\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\obj\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\obj\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\obj\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\obj\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\obj\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\obj\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\7. Estrututa Repetitiva While\7. Estrututa Repetitiva While\obj\Debug\netcoreapp3.1\7. Estrututa Repetitiva While.genruntimeconfig.cache

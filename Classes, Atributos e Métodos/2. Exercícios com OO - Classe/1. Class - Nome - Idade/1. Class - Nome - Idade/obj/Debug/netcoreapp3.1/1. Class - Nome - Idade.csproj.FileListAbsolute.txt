@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\bin\Debug\netcoreapp3.1\1. Class - Nome - Idade.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\bin\Debug\netcoreapp3.1\1. Class - Nome - Idade.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\bin\Debug\netcoreapp3.1\1. Class - Nome - Idade.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\bin\Debug\netcoreapp3.1\1. Class - Nome - Idade.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\bin\Debug\netcoreapp3.1\1. Class - Nome - Idade.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\bin\Debug\netcoreapp3.1\1. Class - Nome - Idade.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\obj\Debug\netcoreapp3.1\1. Class - Nome - Idade.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\obj\Debug\netcoreapp3.1\1. Class - Nome - Idade.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\obj\Debug\netcoreapp3.1\1. Class - Nome - Idade.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\obj\Debug\netcoreapp3.1\1. Class - Nome - Idade.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\obj\Debug\netcoreapp3.1\1. Class - Nome - Idade.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\obj\Debug\netcoreapp3.1\1. Class - Nome - Idade.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Exercícios com OO - Classe\1. Class - Nome - Idade\1. Class - Nome - Idade\obj\Debug\netcoreapp3.1\1. Class - Nome - Idade.genruntimeconfig.cache

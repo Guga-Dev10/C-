@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\bin\Debug\netcoreapp3.1\5. Encapsulamento.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\bin\Debug\netcoreapp3.1\5. Encapsulamento.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\bin\Debug\netcoreapp3.1\5. Encapsulamento.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\bin\Debug\netcoreapp3.1\5. Encapsulamento.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\bin\Debug\netcoreapp3.1\5. Encapsulamento.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\bin\Debug\netcoreapp3.1\5. Encapsulamento.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\obj\Debug\netcoreapp3.1\5. Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\obj\Debug\netcoreapp3.1\5. Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\obj\Debug\netcoreapp3.1\5. Encapsulamento.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\obj\Debug\netcoreapp3.1\5. Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\obj\Debug\netcoreapp3.1\5. Encapsulamento.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\obj\Debug\netcoreapp3.1\5. Encapsulamento.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\5. Encapsulamento\5. Encapsulamento\obj\Debug\netcoreapp3.1\5. Encapsulamento.genruntimeconfig.cache

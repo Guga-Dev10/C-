@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\bin\Debug\netcoreapp3.1\7. Operacoes TimeSpan.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\bin\Debug\netcoreapp3.1\7. Operacoes TimeSpan.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\bin\Debug\netcoreapp3.1\7. Operacoes TimeSpan.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\bin\Debug\netcoreapp3.1\7. Operacoes TimeSpan.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\bin\Debug\netcoreapp3.1\7. Operacoes TimeSpan.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\bin\Debug\netcoreapp3.1\7. Operacoes TimeSpan.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\obj\Debug\netcoreapp3.1\7. Operacoes TimeSpan.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\obj\Debug\netcoreapp3.1\7. Operacoes TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\obj\Debug\netcoreapp3.1\7. Operacoes TimeSpan.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\obj\Debug\netcoreapp3.1\7. Operacoes TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\obj\Debug\netcoreapp3.1\7. Operacoes TimeSpan.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\obj\Debug\netcoreapp3.1\7. Operacoes TimeSpan.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tópicos - p1\7. Operacoes TimeSpan\7. Operacoes TimeSpan\obj\Debug\netcoreapp3.1\7. Operacoes TimeSpan.genruntimeconfig.cache

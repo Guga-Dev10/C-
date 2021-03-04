@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\bin\Debug\netcoreapp3.1\2. Com orientação a Objetos.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\bin\Debug\netcoreapp3.1\2. Com orientação a Objetos.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\bin\Debug\netcoreapp3.1\2. Com orientação a Objetos.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\bin\Debug\netcoreapp3.1\2. Com orientação a Objetos.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\bin\Debug\netcoreapp3.1\2. Com orientação a Objetos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\bin\Debug\netcoreapp3.1\2. Com orientação a Objetos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\obj\Debug\netcoreapp3.1\2. Com orientação a Objetos.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\obj\Debug\netcoreapp3.1\2. Com orientação a Objetos.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\obj\Debug\netcoreapp3.1\2. Com orientação a Objetos.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\obj\Debug\netcoreapp3.1\2. Com orientação a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\obj\Debug\netcoreapp3.1\2. Com orientação a Objetos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\obj\Debug\netcoreapp3.1\2. Com orientação a Objetos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\2. Com orientação a Objetos\2. Com orientação a Objetos\obj\Debug\netcoreapp3.1\2. Com orientação a Objetos.genruntimeconfig.cache

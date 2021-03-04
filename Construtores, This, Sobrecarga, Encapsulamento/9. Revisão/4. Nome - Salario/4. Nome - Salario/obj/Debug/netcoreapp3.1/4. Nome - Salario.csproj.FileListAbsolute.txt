@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\bin\Debug\netcoreapp3.1\4. Nome - Salario.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\bin\Debug\netcoreapp3.1\4. Nome - Salario.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\bin\Debug\netcoreapp3.1\4. Nome - Salario.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\bin\Debug\netcoreapp3.1\4. Nome - Salario.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\bin\Debug\netcoreapp3.1\4. Nome - Salario.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\bin\Debug\netcoreapp3.1\4. Nome - Salario.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\obj\Debug\netcoreapp3.1\4. Nome - Salario.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\obj\Debug\netcoreapp3.1\4. Nome - Salario.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\obj\Debug\netcoreapp3.1\4. Nome - Salario.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\obj\Debug\netcoreapp3.1\4. Nome - Salario.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\obj\Debug\netcoreapp3.1\4. Nome - Salario.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\obj\Debug\netcoreapp3.1\4. Nome - Salario.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\4. Nome - Salario\4. Nome - Salario\obj\Debug\netcoreapp3.1\4. Nome - Salario.genruntimeconfig.cache

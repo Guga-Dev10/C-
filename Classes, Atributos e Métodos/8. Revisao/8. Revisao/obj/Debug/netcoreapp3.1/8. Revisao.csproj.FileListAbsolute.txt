@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\bin\Debug\netcoreapp3.1\8. Revisao.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\bin\Debug\netcoreapp3.1\8. Revisao.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\bin\Debug\netcoreapp3.1\8. Revisao.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\bin\Debug\netcoreapp3.1\8. Revisao.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\bin\Debug\netcoreapp3.1\8. Revisao.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\bin\Debug\netcoreapp3.1\8. Revisao.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\obj\Debug\netcoreapp3.1\8. Revisao.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\obj\Debug\netcoreapp3.1\8. Revisao.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\obj\Debug\netcoreapp3.1\8. Revisao.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\obj\Debug\netcoreapp3.1\8. Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\obj\Debug\netcoreapp3.1\8. Revisao.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\obj\Debug\netcoreapp3.1\8. Revisao.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\8. Revisao\8. Revisao\obj\Debug\netcoreapp3.1\8. Revisao.genruntimeconfig.cache

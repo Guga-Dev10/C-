@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\bin\Debug\netcoreapp3.1\Media Ponderada.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\bin\Debug\netcoreapp3.1\Media Ponderada.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\bin\Debug\netcoreapp3.1\Media Ponderada.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\bin\Debug\netcoreapp3.1\Media Ponderada.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\bin\Debug\netcoreapp3.1\Media Ponderada.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\bin\Debug\netcoreapp3.1\Media Ponderada.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\obj\Debug\netcoreapp3.1\Media Ponderada.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\obj\Debug\netcoreapp3.1\Media Ponderada.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\obj\Debug\netcoreapp3.1\Media Ponderada.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\obj\Debug\netcoreapp3.1\Media Ponderada.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\obj\Debug\netcoreapp3.1\Media Ponderada.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\obj\Debug\netcoreapp3.1\Media Ponderada.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Introdução a C# e DotNet\8. FOR - Exercícios\Media Ponderada\Media Ponderada\obj\Debug\netcoreapp3.1\Media Ponderada.genruntimeconfig.cache

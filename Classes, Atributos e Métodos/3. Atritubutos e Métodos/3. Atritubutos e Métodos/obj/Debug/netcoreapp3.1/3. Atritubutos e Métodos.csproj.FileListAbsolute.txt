@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\bin\Debug\netcoreapp3.1\3. Atritubutos e Métodos.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\bin\Debug\netcoreapp3.1\3. Atritubutos e Métodos.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\bin\Debug\netcoreapp3.1\3. Atritubutos e Métodos.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\bin\Debug\netcoreapp3.1\3. Atritubutos e Métodos.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\bin\Debug\netcoreapp3.1\3. Atritubutos e Métodos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\bin\Debug\netcoreapp3.1\3. Atritubutos e Métodos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\obj\Debug\netcoreapp3.1\3. Atritubutos e Métodos.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\obj\Debug\netcoreapp3.1\3. Atritubutos e Métodos.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\obj\Debug\netcoreapp3.1\3. Atritubutos e Métodos.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\obj\Debug\netcoreapp3.1\3. Atritubutos e Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\obj\Debug\netcoreapp3.1\3. Atritubutos e Métodos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\obj\Debug\netcoreapp3.1\3. Atritubutos e Métodos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Classes, Atributos e Métodos\3. Atritubutos e Métodos\3. Atritubutos e Métodos\obj\Debug\netcoreapp3.1\3. Atritubutos e Métodos.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Coordenadas plano cartesiano", "2. Coordenadas plano cartesiano\2. Coordenadas plano cartesiano.csproj", "{EABB500E-0EF1-4D08-9A3D-3E9521D5A16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABB500E-0EF1-4D08-9A3D-3E9521D5A16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABB500E-0EF1-4D08-9A3D-3E9521D5A16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABB500E-0EF1-4D08-9A3D-3E9521D5A16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABB500E-0EF1-4D08-9A3D-3E9521D5A16F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED283D24-4AEF-4850-8F33-5B9ECE91B40C}
+	EndGlobalSection
+EndGlobal

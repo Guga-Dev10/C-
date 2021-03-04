@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\bin\Debug\netcoreapp3.1\8.1 Vetores - Revisao.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\bin\Debug\netcoreapp3.1\8.1 Vetores - Revisao.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\bin\Debug\netcoreapp3.1\8.1 Vetores - Revisao.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\bin\Debug\netcoreapp3.1\8.1 Vetores - Revisao.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\bin\Debug\netcoreapp3.1\8.1 Vetores - Revisao.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\bin\Debug\netcoreapp3.1\8.1 Vetores - Revisao.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\obj\Debug\netcoreapp3.1\8.1 Vetores - Revisao.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\obj\Debug\netcoreapp3.1\8.1 Vetores - Revisao.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\obj\Debug\netcoreapp3.1\8.1 Vetores - Revisao.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\obj\Debug\netcoreapp3.1\8.1 Vetores - Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\obj\Debug\netcoreapp3.1\8.1 Vetores - Revisao.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\obj\Debug\netcoreapp3.1\8.1 Vetores - Revisao.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\8.1 Vetores - Revisao\8.1 Vetores - Revisao\obj\Debug\netcoreapp3.1\8.1 Vetores - Revisao.genruntimeconfig.cache

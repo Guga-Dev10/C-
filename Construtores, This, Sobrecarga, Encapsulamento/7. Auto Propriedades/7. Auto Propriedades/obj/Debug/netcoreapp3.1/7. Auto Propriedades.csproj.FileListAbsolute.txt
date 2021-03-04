@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\bin\Debug\netcoreapp3.1\7. Auto Propriedades.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\bin\Debug\netcoreapp3.1\7. Auto Propriedades.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\bin\Debug\netcoreapp3.1\7. Auto Propriedades.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\bin\Debug\netcoreapp3.1\7. Auto Propriedades.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\bin\Debug\netcoreapp3.1\7. Auto Propriedades.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\bin\Debug\netcoreapp3.1\7. Auto Propriedades.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\obj\Debug\netcoreapp3.1\7. Auto Propriedades.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\obj\Debug\netcoreapp3.1\7. Auto Propriedades.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\obj\Debug\netcoreapp3.1\7. Auto Propriedades.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\obj\Debug\netcoreapp3.1\7. Auto Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\obj\Debug\netcoreapp3.1\7. Auto Propriedades.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\obj\Debug\netcoreapp3.1\7. Auto Propriedades.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\7. Auto Propriedades\7. Auto Propriedades\obj\Debug\netcoreapp3.1\7. Auto Propriedades.genruntimeconfig.cache

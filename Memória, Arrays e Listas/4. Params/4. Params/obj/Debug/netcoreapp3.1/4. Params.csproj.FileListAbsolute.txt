@@ -1,0 +1,12 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\bin\Debug\netcoreapp3.1\4. Params.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\bin\Debug\netcoreapp3.1\4. Params.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\bin\Debug\netcoreapp3.1\4. Params.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\bin\Debug\netcoreapp3.1\4. Params.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\bin\Debug\netcoreapp3.1\4. Params.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\bin\Debug\netcoreapp3.1\4. Params.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\obj\Debug\netcoreapp3.1\4. Params.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\obj\Debug\netcoreapp3.1\4. Params.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\obj\Debug\netcoreapp3.1\4. Params.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\obj\Debug\netcoreapp3.1\4. Params.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\obj\Debug\netcoreapp3.1\4. Params.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Memória, Arrays e Listas\4. Params\4. Params\obj\Debug\netcoreapp3.1\4. Params.genruntimeconfig.cache

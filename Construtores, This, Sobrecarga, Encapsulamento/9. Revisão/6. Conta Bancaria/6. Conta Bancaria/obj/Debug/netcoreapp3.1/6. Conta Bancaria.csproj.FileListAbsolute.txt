@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\bin\Debug\netcoreapp3.1\6. Conta Bancaria.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\bin\Debug\netcoreapp3.1\6. Conta Bancaria.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\bin\Debug\netcoreapp3.1\6. Conta Bancaria.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\bin\Debug\netcoreapp3.1\6. Conta Bancaria.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\bin\Debug\netcoreapp3.1\6. Conta Bancaria.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\bin\Debug\netcoreapp3.1\6. Conta Bancaria.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\obj\Debug\netcoreapp3.1\6. Conta Bancaria.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\obj\Debug\netcoreapp3.1\6. Conta Bancaria.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\obj\Debug\netcoreapp3.1\6. Conta Bancaria.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\obj\Debug\netcoreapp3.1\6. Conta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\obj\Debug\netcoreapp3.1\6. Conta Bancaria.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\obj\Debug\netcoreapp3.1\6. Conta Bancaria.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\6. Conta Bancaria\6. Conta Bancaria\obj\Debug\netcoreapp3.1\6. Conta Bancaria.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\bin\Debug\netcoreapp3.1\4. Palavra This.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\bin\Debug\netcoreapp3.1\4. Palavra This.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\bin\Debug\netcoreapp3.1\4. Palavra This.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\bin\Debug\netcoreapp3.1\4. Palavra This.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\bin\Debug\netcoreapp3.1\4. Palavra This.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\bin\Debug\netcoreapp3.1\4. Palavra This.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\obj\Debug\netcoreapp3.1\4. Palavra This.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\obj\Debug\netcoreapp3.1\4. Palavra This.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\obj\Debug\netcoreapp3.1\4. Palavra This.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\obj\Debug\netcoreapp3.1\4. Palavra This.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\obj\Debug\netcoreapp3.1\4. Palavra This.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\obj\Debug\netcoreapp3.1\4. Palavra This.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\4. Palavra This\4. Palavra This\obj\Debug\netcoreapp3.1\4. Palavra This.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\bin\Debug\netcoreapp3.1\2. Euro - Real.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\bin\Debug\netcoreapp3.1\2. Euro - Real.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\bin\Debug\netcoreapp3.1\2. Euro - Real.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\bin\Debug\netcoreapp3.1\2. Euro - Real.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\bin\Debug\netcoreapp3.1\2. Euro - Real.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\bin\Debug\netcoreapp3.1\2. Euro - Real.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\obj\Debug\netcoreapp3.1\2. Euro - Real.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\obj\Debug\netcoreapp3.1\2. Euro - Real.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\obj\Debug\netcoreapp3.1\2. Euro - Real.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\obj\Debug\netcoreapp3.1\2. Euro - Real.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\obj\Debug\netcoreapp3.1\2. Euro - Real.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\obj\Debug\netcoreapp3.1\2. Euro - Real.genruntimeconfig.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Construtores, This, Sobrecarga, Encapsulamento\9. Revisão\2. Euro - Real\2. Euro - Real\obj\Debug\netcoreapp3.1\2. Euro - Real.csprojAssemblyReference.cache
