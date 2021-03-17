@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\bin\Debug\netcoreapp3.1\WorkerRevisao.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\bin\Debug\netcoreapp3.1\WorkerRevisao.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\bin\Debug\netcoreapp3.1\WorkerRevisao.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\bin\Debug\netcoreapp3.1\WorkerRevisao.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\bin\Debug\netcoreapp3.1\WorkerRevisao.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\bin\Debug\netcoreapp3.1\WorkerRevisao.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\obj\Debug\netcoreapp3.1\WorkerRevisao.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\obj\Debug\netcoreapp3.1\WorkerRevisao.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\obj\Debug\netcoreapp3.1\WorkerRevisao.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\obj\Debug\netcoreapp3.1\WorkerRevisao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\obj\Debug\netcoreapp3.1\WorkerRevisao.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\obj\Debug\netcoreapp3.1\WorkerRevisao.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Enumerações\WorkerRevisao\WorkerRevisao\obj\Debug\netcoreapp3.1\WorkerRevisao.genruntimeconfig.cache
