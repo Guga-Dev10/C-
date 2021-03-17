@@ -1,8 +1,11 @@
 ﻿using System;
+<<<<<<< HEAD
 using System.Globalization;
 using System.Collections.Generic;
 using WorkerRevisao.Entities.Enums;
 using WorkerRevisao.Entities;
+=======
+>>>>>>> de15addf3a25311329912e15a37ff566790ed6ae
 
 namespace WorkerRevisao
 {
@@ -10,6 +13,7 @@ namespace WorkerRevisao
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             CultureInfo CI = CultureInfo.InvariantCulture;
 
             Console.WriteLine("Worker's Data");
@@ -58,6 +62,9 @@ namespace WorkerRevisao
             Console.WriteLine("Income = " + monthAndYear + ": " + worker.Income(year, month));
 
 
+=======
+            Console.WriteLine("Hello World!");
+>>>>>>> de15addf3a25311329912e15a37ff566790ed6ae
         }
     }
 }
