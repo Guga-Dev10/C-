@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache

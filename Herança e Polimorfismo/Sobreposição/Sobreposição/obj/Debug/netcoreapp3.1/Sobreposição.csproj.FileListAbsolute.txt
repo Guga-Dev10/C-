@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\bin\Debug\netcoreapp3.1\Sobreposição.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\bin\Debug\netcoreapp3.1\Sobreposição.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\bin\Debug\netcoreapp3.1\Sobreposição.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\bin\Debug\netcoreapp3.1\Sobreposição.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\bin\Debug\netcoreapp3.1\Sobreposição.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\bin\Debug\netcoreapp3.1\Sobreposição.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\obj\Debug\netcoreapp3.1\Sobreposição.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\obj\Debug\netcoreapp3.1\Sobreposição.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\obj\Debug\netcoreapp3.1\Sobreposição.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\obj\Debug\netcoreapp3.1\Sobreposição.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\obj\Debug\netcoreapp3.1\Sobreposição.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\obj\Debug\netcoreapp3.1\Sobreposição.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Sobreposição\Sobreposição\obj\Debug\netcoreapp3.1\Sobreposição.genruntimeconfig.cache

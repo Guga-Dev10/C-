@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.genruntimeconfig.cache

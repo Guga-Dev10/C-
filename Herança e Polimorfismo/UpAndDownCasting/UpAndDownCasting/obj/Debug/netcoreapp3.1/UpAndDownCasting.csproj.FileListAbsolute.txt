@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Herança e Polimorfismo\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.genruntimeconfig.cache
