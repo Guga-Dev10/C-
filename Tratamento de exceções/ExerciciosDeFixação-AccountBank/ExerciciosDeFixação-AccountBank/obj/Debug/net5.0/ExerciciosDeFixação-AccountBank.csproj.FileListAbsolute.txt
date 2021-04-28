@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\bin\Debug\net5.0\ExerciciosDeFixação-AccountBank.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\bin\Debug\net5.0\ExerciciosDeFixação-AccountBank.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\bin\Debug\net5.0\ExerciciosDeFixação-AccountBank.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\bin\Debug\net5.0\ExerciciosDeFixação-AccountBank.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\bin\Debug\net5.0\ExerciciosDeFixação-AccountBank.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\bin\Debug\net5.0\ref\ExerciciosDeFixação-AccountBank.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\bin\Debug\net5.0\ExerciciosDeFixação-AccountBank.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ExerciciosDeFixação-AccountBank.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ExerciciosDeFixação-AccountBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ExerciciosDeFixação-AccountBank.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ExerciciosDeFixação-AccountBank.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ExerciciosDeFixação-AccountBank.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ExerciciosDeFixação-AccountBank.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ref\ExerciciosDeFixação-AccountBank.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ExerciciosDeFixação-AccountBank.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExerciciosDeFixação-AccountBank\ExerciciosDeFixação-AccountBank\obj\Debug\net5.0\ExerciciosDeFixação-AccountBank.genruntimeconfig.cache

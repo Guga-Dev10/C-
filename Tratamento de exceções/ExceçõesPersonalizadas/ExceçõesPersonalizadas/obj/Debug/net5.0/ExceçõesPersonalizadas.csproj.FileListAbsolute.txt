@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\bin\Debug\net5.0\ExceçõesPersonalizadas.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\bin\Debug\net5.0\ExceçõesPersonalizadas.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\bin\Debug\net5.0\ExceçõesPersonalizadas.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\bin\Debug\net5.0\ExceçõesPersonalizadas.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\bin\Debug\net5.0\ExceçõesPersonalizadas.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\bin\Debug\net5.0\ref\ExceçõesPersonalizadas.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\bin\Debug\net5.0\ExceçõesPersonalizadas.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ExceçõesPersonalizadas.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ExceçõesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ExceçõesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ExceçõesPersonalizadas.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ExceçõesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ExceçõesPersonalizadas.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ref\ExceçõesPersonalizadas.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ExceçõesPersonalizadas.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas\ExceçõesPersonalizadas\obj\Debug\net5.0\ExceçõesPersonalizadas.genruntimeconfig.cache

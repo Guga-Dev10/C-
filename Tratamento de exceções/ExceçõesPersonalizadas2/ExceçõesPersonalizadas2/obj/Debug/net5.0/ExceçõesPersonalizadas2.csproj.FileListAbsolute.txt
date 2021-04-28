@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\bin\Debug\net5.0\ExceçõesPersonalizadas2.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\bin\Debug\net5.0\ExceçõesPersonalizadas2.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\bin\Debug\net5.0\ExceçõesPersonalizadas2.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\bin\Debug\net5.0\ExceçõesPersonalizadas2.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\bin\Debug\net5.0\ExceçõesPersonalizadas2.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\bin\Debug\net5.0\ref\ExceçõesPersonalizadas2.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\bin\Debug\net5.0\ExceçõesPersonalizadas2.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ExceçõesPersonalizadas2.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ExceçõesPersonalizadas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ExceçõesPersonalizadas2.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ExceçõesPersonalizadas2.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ExceçõesPersonalizadas2.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ExceçõesPersonalizadas2.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ref\ExceçõesPersonalizadas2.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ExceçõesPersonalizadas2.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de exceções\ExceçõesPersonalizadas2\ExceçõesPersonalizadas2\obj\Debug\net5.0\ExceçõesPersonalizadas2.genruntimeconfig.cache

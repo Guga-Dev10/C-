@@ -1,0 +1,15 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\ref\Try-Catch-Finally.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\bin\Debug\net5.0\Try-Catch-Finally.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\ref\Try-Catch-Finally.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Tratamento de excessões\Try-Catch-Finally\Try-Catch-Finally\obj\Debug\net5.0\Try-Catch-Finally.genruntimeconfig.cache
