@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\bin\Debug\net5.0\Taxes.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\bin\Debug\net5.0\Taxes.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\bin\Debug\net5.0\Taxes.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\bin\Debug\net5.0\Taxes.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\bin\Debug\net5.0\Taxes.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\bin\Debug\net5.0\ref\Taxes.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\bin\Debug\net5.0\Taxes.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\Taxes.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\Taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\Taxes.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\Taxes.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\Taxes.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\Taxes.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\ref\Taxes.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\Taxes.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\TaxPayers\TaxPayers\obj\Debug\net5.0\Taxes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\bin\Debug\net5.0\Path De Arquivos.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\bin\Debug\net5.0\Path De Arquivos.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\bin\Debug\net5.0\Path De Arquivos.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\bin\Debug\net5.0\Path De Arquivos.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\bin\Debug\net5.0\Path De Arquivos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\bin\Debug\net5.0\ref\Path De Arquivos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\bin\Debug\net5.0\Path De Arquivos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\Path De Arquivos.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\Path De Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\Path De Arquivos.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\Path De Arquivos.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\Path De Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\Path De Arquivos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\ref\Path De Arquivos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\Path De Arquivos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão\Revisão Arquivos\Path De Arquivos\Path De Arquivos\obj\Debug\net5.0\Path De Arquivos.genruntimeconfig.cache
