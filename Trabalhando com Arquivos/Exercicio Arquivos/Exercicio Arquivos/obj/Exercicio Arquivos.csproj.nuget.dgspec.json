@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Revisão\\TaxPayers\\TaxPayers\\Taxes.csproj": {}
+    "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Trabalhando com Arquivos\\Exercicio Arquivos\\Exercicio Arquivos\\Exercicio Arquivos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Revisão\\TaxPayers\\TaxPayers\\Taxes.csproj": {
+    "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Trabalhando com Arquivos\\Exercicio Arquivos\\Exercicio Arquivos\\Exercicio Arquivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Revisão\\TaxPayers\\TaxPayers\\Taxes.csproj",
-        "projectName": "Taxes",
-        "projectPath": "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Revisão\\TaxPayers\\TaxPayers\\Taxes.csproj",
+        "projectUniqueName": "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Trabalhando com Arquivos\\Exercicio Arquivos\\Exercicio Arquivos\\Exercicio Arquivos.csproj",
+        "projectName": "Exercicio Arquivos",
+        "projectPath": "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Trabalhando com Arquivos\\Exercicio Arquivos\\Exercicio Arquivos\\Exercicio Arquivos.csproj",
         "packagesPath": "C:\\Users\\Gi & Gu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Revisão\\TaxPayers\\TaxPayers\\obj\\",
+        "outputPath": "C:\\Users\\Gi & Gu\\Desktop\\Gustavo\\C-Sharp\\Trabalhando com Arquivos\\Exercicio Arquivos\\Exercicio Arquivos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
