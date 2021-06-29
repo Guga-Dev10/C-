@@ -33,7 +33,7 @@ namespace Estoque.Produtos
                 + "\nPreço = $"
                 + Preco
                 + "\nQuantidade = "
-                + Quantidade
+                + Quantidade.ToString("F2", CultureInfo.InvariantCulture)
                 + "\nValor total em estoque = $"
                 + valorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
