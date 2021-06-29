@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\bin\Debug\net5.0\RevisãoSolucaoSemInterface.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\bin\Debug\net5.0\RevisãoSolucaoSemInterface.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\bin\Debug\net5.0\RevisãoSolucaoSemInterface.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\bin\Debug\net5.0\RevisãoSolucaoSemInterface.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\bin\Debug\net5.0\RevisãoSolucaoSemInterface.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\bin\Debug\net5.0\ref\RevisãoSolucaoSemInterface.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\bin\Debug\net5.0\RevisãoSolucaoSemInterface.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\RevisãoSolucaoSemInterface.csproj.AssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\RevisãoSolucaoSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\RevisãoSolucaoSemInterface.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\RevisãoSolucaoSemInterface.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\RevisãoSolucaoSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\RevisãoSolucaoSemInterface.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\ref\RevisãoSolucaoSemInterface.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\RevisãoSolucaoSemInterface.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Interfaces\RevisãoSolucaoSemInterface\RevisãoSolucaoSemInterface\obj\Debug\net5.0\RevisãoSolucaoSemInterface.genruntimeconfig.cache
