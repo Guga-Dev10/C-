@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\bin\Debug\net5.0\AprovaçãoAluno.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\bin\Debug\net5.0\AprovaçãoAluno.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\bin\Debug\net5.0\AprovaçãoAluno.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\bin\Debug\net5.0\AprovaçãoAluno.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\bin\Debug\net5.0\AprovaçãoAluno.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\bin\Debug\net5.0\ref\AprovaçãoAluno.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\bin\Debug\net5.0\AprovaçãoAluno.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\AprovaçãoAluno.csproj.AssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\AprovaçãoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\AprovaçãoAluno.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\AprovaçãoAluno.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\AprovaçãoAluno.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\AprovaçãoAluno.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\ref\AprovaçãoAluno.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\AprovaçãoAluno.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\AprovaçãoAluno\AprovaçãoAluno\obj\Debug\net5.0\AprovaçãoAluno.genruntimeconfig.cache
