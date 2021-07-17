@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\bin\Debug\net5.0\Membros Estaticos Exercicio.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\bin\Debug\net5.0\Membros Estaticos Exercicio.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\bin\Debug\net5.0\Membros Estaticos Exercicio.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\bin\Debug\net5.0\Membros Estaticos Exercicio.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\bin\Debug\net5.0\Membros Estaticos Exercicio.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\bin\Debug\net5.0\ref\Membros Estaticos Exercicio.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\bin\Debug\net5.0\Membros Estaticos Exercicio.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\Membros Estaticos Exercicio.csproj.AssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\Membros Estaticos Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\Membros Estaticos Exercicio.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\Membros Estaticos Exercicio.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\Membros Estaticos Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\Membros Estaticos Exercicio.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\ref\Membros Estaticos Exercicio.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\Membros Estaticos Exercicio.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev2\Membros Estaticos Exercicio\Membros Estaticos Exercicio\obj\Debug\net5.0\Membros Estaticos Exercicio.genruntimeconfig.cache
