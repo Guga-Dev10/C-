@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Membros Estaticos Exercicio\\Membros Estaticos Exercicio\\Membros Estaticos Exercicio.csproj",
-      "projectName": "Membros Estaticos Exercicio",
-      "projectPath": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Membros Estaticos Exercicio\\Membros Estaticos Exercicio\\Membros Estaticos Exercicio.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+      "projectName": "Encapsulamento",
+      "projectPath": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\Gustavo Souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Membros Estaticos Exercicio\\Membros Estaticos Exercicio\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Encapsulamento\\Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
