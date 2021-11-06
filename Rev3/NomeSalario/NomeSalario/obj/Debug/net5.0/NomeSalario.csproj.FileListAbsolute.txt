@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\bin\Debug\net5.0\NomeSalario.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\bin\Debug\net5.0\NomeSalario.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\bin\Debug\net5.0\NomeSalario.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\bin\Debug\net5.0\NomeSalario.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\bin\Debug\net5.0\NomeSalario.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\bin\Debug\net5.0\ref\NomeSalario.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\bin\Debug\net5.0\NomeSalario.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\NomeSalario.csproj.AssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\NomeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\NomeSalario.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\NomeSalario.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\NomeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\NomeSalario.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\ref\NomeSalario.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\NomeSalario.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\NomeSalario\NomeSalario\obj\Debug\net5.0\NomeSalario.genruntimeconfig.cache
