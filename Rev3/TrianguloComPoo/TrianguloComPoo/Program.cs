@@ -30,6 +30,15 @@ namespace TrianguloComPoo
             Console.WriteLine("\nResultados do triângulo Y: " +
                 "\nPerimetro = " + Y.PerimetroTriangulo().ToString("F2",CI)
                 + "\nÁrea = " + Y.AreaTriangulo().ToString("F2", CI));
+
+            if(X.AreaTriangulo() < Y.AreaTriangulo())
+            {
+                Console.WriteLine("\nO triângulo com maior área é: Y");
+            }
+            else
+            {
+                Console.WriteLine("\nO triângulo com maior área é: X");
+            }
         }
     }
 }
