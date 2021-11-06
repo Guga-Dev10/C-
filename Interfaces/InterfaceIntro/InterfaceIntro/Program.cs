@@ -18,9 +18,7 @@ namespace InterfaceIntro
              *      double area()
              *      double perimetro()
              *  }
-             */
-
-            Console.WriteLine("Hello World!");
+             **/
         }
     }
 }
