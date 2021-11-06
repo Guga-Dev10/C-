@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
-      "projectName": "Encapsulamento",
-      "projectPath": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Interfaces\\InterfaceIntro\\InterfaceIntro\\InterfaceIntro.csproj",
+      "projectName": "InterfaceIntro",
+      "projectPath": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Interfaces\\InterfaceIntro\\InterfaceIntro\\InterfaceIntro.csproj",
       "packagesPath": "C:\\Users\\Gustavo Souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Rev2\\Encapsulamento\\Encapsulamento\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo Souza\\Desktop\\Curso C#\\Interfaces\\InterfaceIntro\\InterfaceIntro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
