@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\bin\Debug\net5.0\TrianguloComPoo.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\bin\Debug\net5.0\TrianguloComPoo.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\bin\Debug\net5.0\TrianguloComPoo.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\bin\Debug\net5.0\TrianguloComPoo.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\bin\Debug\net5.0\TrianguloComPoo.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\bin\Debug\net5.0\ref\TrianguloComPoo.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\bin\Debug\net5.0\TrianguloComPoo.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\TrianguloComPoo.csproj.AssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\TrianguloComPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\TrianguloComPoo.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\TrianguloComPoo.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\TrianguloComPoo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\TrianguloComPoo.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\ref\TrianguloComPoo.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\TrianguloComPoo.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\TrianguloComPoo\TrianguloComPoo\obj\Debug\net5.0\TrianguloComPoo.genruntimeconfig.cache
