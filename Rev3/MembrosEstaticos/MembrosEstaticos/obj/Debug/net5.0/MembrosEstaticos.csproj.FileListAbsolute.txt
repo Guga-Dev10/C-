@@ -1,0 +1,16 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\ref\MembrosEstaticos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\ref\MembrosEstaticos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Rev3\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.genruntimeconfig.cache
