@@ -6,7 +6,7 @@ namespace Encapsulamento
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World usando VS Code!");
         }
     }
 }
