@@ -13,5 +13,24 @@ namespace WebApplication1
         {
 
         }
+
+        protected void Executar_Click(object sender, EventArgs e)
+        {
+            if (txtMSG.Text.Equals(""))
+            {
+                /* Caso a caixa de mensagem esteja vazia 
+                 * retornar a frase abaixo!
+                 */
+                Lmsg.Text = "Alô mundo!";
+            }
+            else
+            {
+                /*  
+                 *  caso a caixa de mensagem esteja preenchida
+                 *  Retornar valor da caixa de mensagem
+                */
+                Lmsg.Text = txtMSG.Text;
+            }
+        }
     }
 }
