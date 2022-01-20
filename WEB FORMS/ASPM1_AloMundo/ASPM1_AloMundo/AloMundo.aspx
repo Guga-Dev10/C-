@@ -12,6 +12,10 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:TextBox ID="txtMsg" runat="server" Width="499px"></asp:TextBox>
+            <asp:Button ID="btnExecutar" runat="server" OnClick="btnExecutar_Click" Text="Executar" />
+            <br />
+            <asp:Label ID="Lmsg" runat="server" Text="Escreva o que deseja informar"></asp:Label>
         </div>
     </form>
 </body>

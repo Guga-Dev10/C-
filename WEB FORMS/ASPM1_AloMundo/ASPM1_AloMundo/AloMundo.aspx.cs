@@ -13,5 +13,23 @@ namespace ASPM1_AloMundo
         {
 
         }
+
+        protected void btnExecutar_Click(object sender, EventArgs e)
+        {
+            if (txtMsg.Text.Equals(""))
+            {
+                /*
+                 *  Se o TextBox Mensagem (txtMsg) for igual a vazio o c# irá chamar o Label Mensagem e irá executar o comando abaixo com um texto
+                 */
+                Lmsg.Text = "Aula 1 - Alô Mundo";
+            }
+            else
+            {
+                /*
+                 *  Se o txtMsg não estiver vazio, o C# irá exibir no lmsg o que o usuário digitar usando a linha de comando abaixo
+                 */
+                Lmsg.Text = txtMsg.Text;
+            }
+        }
     }
 }
