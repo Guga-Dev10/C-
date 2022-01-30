@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="ASPM1_04_Tabuada.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ExercicioDeTabuada.aspx.cs" Inherits="ASPM1_04_Tabuada.WebForm1" %>
 
 <!DOCTYPE html>
 
