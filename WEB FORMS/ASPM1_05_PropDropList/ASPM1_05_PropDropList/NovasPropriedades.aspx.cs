@@ -29,10 +29,16 @@ namespace ASPM1_05_PropDropList
         protected void btnSelecionarItemSite_Click(object sender, EventArgs e)
         {
             ListItem listItemDadosSite = dlDadosSite.SelectedItem;
-            txtNomeSite.Text = listItemDadosSite.Text;
+            txtNomeSiteSelecionado.Text = listItemDadosSite.Text;
 
             ListItem listItemEnderecosSite = lbDadosEnderecoSite.SelectedItem;
-            txtEderecoSite.Text = listItemEnderecosSite.Text;
+            txtEnderecoSiteSelecionado.Text = listItemEnderecosSite.Text;
+        }
+
+        protected void btnLimparDados_Click(object sender, EventArgs e)
+        {
+            txtNomeSiteSelecionado.Text = "";
+            txtEnderecoSiteSelecionado.Text = "";
         }
     }
 }

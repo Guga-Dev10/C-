@@ -65,11 +65,34 @@
                         </asp:ListBox>
                     </td>
                     <td width="33%">
-                        <asp:Button 
-                            id="btnSelecionarItemSite"
+                        <asp:Button
+                            ID="btnSelecionarItemSite"
                             runat="server"
-                            text="Selecionar Item"
-                            OnClick="btnSelecionarItemSite_Click"/>
+                            Text="Selecionar Item"
+                            OnClick="btnSelecionarItemSite_Click" />
+                    </td>
+                </tr>
+                <tr width="100%">
+                    <td width="33%">
+                        <asp:TextBox
+                            ID="txtNomeSiteSelecionado"
+                            runat="server"
+                            Width="90%">
+                        </asp:TextBox>
+                    </td>
+                    <td width="33%">
+                        <asp:TextBox
+                            id="txtEnderecoSiteSelecionado"
+                            runat="server"
+                            width="90%">
+                        </asp:TextBox>
+                    </td>
+                    <td width="33%">
+                        <asp:Button
+                            ID="btnLimparDados"
+                            runat="server"
+                            Text="Selecionar Item"
+                            OnClick="btnLimparDados_Click" />
                     </td>
                 </tr>
             </table>
