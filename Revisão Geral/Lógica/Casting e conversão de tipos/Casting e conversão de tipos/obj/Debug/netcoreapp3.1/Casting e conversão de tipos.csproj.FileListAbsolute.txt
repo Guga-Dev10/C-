@@ -1,0 +1,14 @@
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\bin\Debug\netcoreapp3.1\Casting e conversão de tipos.exe
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\bin\Debug\netcoreapp3.1\Casting e conversão de tipos.deps.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\bin\Debug\netcoreapp3.1\Casting e conversão de tipos.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\bin\Debug\netcoreapp3.1\Casting e conversão de tipos.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\bin\Debug\netcoreapp3.1\Casting e conversão de tipos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\bin\Debug\netcoreapp3.1\Casting e conversão de tipos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\obj\Debug\netcoreapp3.1\Casting e conversão de tipos.csproj.AssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\obj\Debug\netcoreapp3.1\Casting e conversão de tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\obj\Debug\netcoreapp3.1\Casting e conversão de tipos.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\obj\Debug\netcoreapp3.1\Casting e conversão de tipos.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\obj\Debug\netcoreapp3.1\Casting e conversão de tipos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\obj\Debug\netcoreapp3.1\Casting e conversão de tipos.dll
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\obj\Debug\netcoreapp3.1\Casting e conversão de tipos.pdb
+C:\Users\Gustavo Souza\Desktop\Curso C#\Revisão Geral\Lógica\Casting e conversão de tipos\Casting e conversão de tipos\obj\Debug\netcoreapp3.1\Casting e conversão de tipos.genruntimeconfig.cache
