@@ -27,7 +27,7 @@ namespace Exercicios1
 
             Console.WriteLine("\n");
             Console.Write("Entre com o valor do raio: ");
-            int raio = int.Parse(Console.ReadLine());
+            double raio = double.Parse(Console.ReadLine());
 
             Console.WriteLine($"Circunferência = {circunferencia(raio).ToString("F4")}");
 
@@ -64,6 +64,34 @@ namespace Exercicios1
 
             double SalarioFuncionario = Salario(horasTrabalhadas, valorHora);
             Console.WriteLine($"Dados do funcionário: \nNúmero = {numeroFuncionario}, Salário = ${SalarioFuncionario.ToString("F2")}");
+
+            // Exercício 5
+
+            /*  Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de peças 1
+             Fazer um programa para ler o código de uma peça 2, o número de peças 2, o valor unitário de peças 
+             */
+
+            Console.WriteLine("\n");
+            Console.Write("Qual o código da peça 1: ");
+            int cod1 = int.Parse(Console.ReadLine());
+            Console.Write("Número de peças 1 adquiridas: ");
+            int numPecas1 = int.Parse(Console.ReadLine());
+            Console.Write("Qual o valor de cada peça 1: ");
+            double valorPeca1 = double.Parse(Console.ReadLine());
+
+            double somaPeca1 = numPecas1 * valorPeca1;
+            Console.WriteLine($"Código: {cod1} \nSoma: ${somaPeca1}\n");
+
+            Console.Write("Qual o código da peça 2: ");
+            int cod2 = int.Parse(Console.ReadLine());
+            Console.Write("Número de peças 2 adquiridas: ");
+            int numPecas2 = int.Parse(Console.ReadLine());
+            Console.Write("Qual o valor de cada peça 2: ");
+            double valorPeca2 = double.Parse(Console.ReadLine());
+
+            double somaPeca2 = numPecas2 * valorPeca2;
+            Console.WriteLine($"Código: {cod2} \nSoma: ${somaPeca2}\n");
+
         }
         static double circunferencia(double raio)
         {
