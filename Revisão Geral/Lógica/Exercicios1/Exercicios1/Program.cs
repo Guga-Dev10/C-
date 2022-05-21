@@ -92,10 +92,50 @@ namespace Exercicios1
             double somaPeca2 = numPecas2 * valorPeca2;
             Console.WriteLine($"Código: {cod2} \nSoma: ${somaPeca2}\n");
 
+            //Exercício 6
+
+            /* Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e
+            mostre:
+            a) a área do triângulo retângulo que tem A por base e C por altura.
+            b) a área do círculo de raio C. (pi = 3.14159)
+            c) a área do trapézio que tem A e B por bases e C por altura.
+            d) a área do quadrado que tem lado B.
+            e) a área do retângulo que tem lados A e B.
+            */
+
+            Console.WriteLine("\nEntre com três números: ");
+            double A2 = double.Parse(Console.ReadLine());
+            double B2 = double.Parse(Console.ReadLine());
+            double C2 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Cálculo da área do triângulo: {areaTriangulo(A2, C2).ToString("F2")}");
+            Console.WriteLine($"Cálculo da área do circulo: {circunferencia(C2).ToString("F2")}");
+            Console.WriteLine($"Cálculo da área do trapézio: {areaTrapezio(A2, B2, C2).ToString("F2")}");
+            Console.WriteLine($"Cálculo da área do quadrado: {areaQuadrado(B2).ToString("F2")}");
+            Console.WriteLine($"Cálculo da área do retângulo: {areaRetangulo(A2, B2).ToString("F2")}");
         }
         static double circunferencia(double raio)
         {
             double area = Math.PI * Math.Pow(raio, 2);
+            return area;
+        }
+        static double areaTrapezio(double baseMaior, double baseMenor, double altura)
+        {
+            double area = ((baseMaior + baseMenor) * altura) / 2.0;
+            return area;
+        }
+        static double areaTriangulo(double baseTriangulo, double alturaTriangulo)
+        {
+            double area = (baseTriangulo * alturaTriangulo) / 2;
+            return area;
+        }
+        static double areaQuadrado(double baseQuadrado)
+        {
+            return baseQuadrado * baseQuadrado;
+        }
+        static double areaRetangulo(double baseRetangulo, double altura)
+        {
+            double area = baseRetangulo * altura;
             return area;
         }
         static double Salario(int horasTrabalhadas, double valorHora)
